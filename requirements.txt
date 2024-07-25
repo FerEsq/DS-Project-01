@@ -1,3 +1,10 @@
-pandas
 beautifulsoup4
 lxml
+openpyxl
+
+pandas
+numpy
+matplotlib
+seaborn
+
+scikit-learn
